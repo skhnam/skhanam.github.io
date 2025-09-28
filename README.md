@@ -1,19 +1,19 @@
 
 <h1>Hi, I'm Safeena <br/><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a> <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a></h1>
 <h2>Skills</h2>
-<b>Methodologies & Practices:</b><a>SDLC, Agile, Test-Driven Development (TDD)</a><br/>
-<b>DevOps & DevSecOps</b>:<a>Configuration Management (Puppet, ArgoCD, Chef Cookbooks),Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</a>
-
--<b>Management (HashiCorp Vault, PasswordSafe), Compliance Automation</b>
--<b>Cloud Platforms & Services: AWS (EC2, S3, RDS, ECS, EKS, Lambda, Route53, SNS, SQS, CloudTrail), Azure (App Service, Azure AD, ARM</b>
--<b>Templates, Azure Kubernetes Service)</b>
--<b>Containers & Orchestration: Docker, Kubernetes, Docker Swarm</b>
--<b>Monitoring, Logging & Observability: Splunk, Nagios, Grafana, CloudWatch, Dynatrace, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana)</b>
--<b>Security & Compliance: SAML, OAuth, TLS/SSL, Venafi, Rapid7, Tenable Nessus</b>
--<b>Programming & Scripting: Python, PowerShell, Bash, YAML</b>
--<b>CI/CD & Build Tools: Jenkins, GitLab CI, GitHub Actions, Azure DevOps, AWS CodeBuild, AWS CodePipeline, Maven, Gradle</b>
--<b>Databases & Web/Application Servers: DynamoDB, MongoDB, MySQL, Amazon RDS, Nginx, WebLogic, Apache Tomcat</b>
--<b>Unix/Linux Systems: Ubuntu, Red Hat, CentOS, System Calls</b>
+<div><b>Methodologies & Practices:</b> <a>SDLC, Agile, Test-Driven Development (TDD)</a></div>
+<div><b>DevOps & DevSecOps:</b> <a>Configuration Management (Puppet, ArgoCD, Chef Cookbooks), Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</a></div>
+<div><b>Management:</b> <a>HashiCorp Vault, PasswordSafe, Compliance Automation</a></div>
+<div><b>Cloud Platforms & Services:</b> <a>AWS (EC2, S3, RDS, ECS, EKS, Lambda, Route53, SNS, SQS, CloudTrail), Azure (App Service, Azure AD, ARM Templates, Azure Kubernetes Service)</a></div>
+<div><b>Containers & Orchestration:</b> <a>Docker, Kubernetes, Docker Swarm</a></div>
+<div><b>Monitoring, Logging & Observability:</b> <a>Splunk, Nagios, Grafana, CloudWatch, Dynatrace, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana)</a></div>
+<div><b>Security & Compliance:</b> <a>SAML, OAuth, TLS/SSL, Venafi, Rapid7, Tenable Nessus</a></div>
+<div><b>Programming & Scripting:</b> <a>Python, PowerShell, Bash, YAML</a></div>
+<div><b>CI/CD & Build Tools:</b> <a>Jenkins, GitLab CI, GitHub Actions, Azure DevOps, AWS CodeBuild, AWS CodePipeline, Maven, Gradle</a></div>
+<div><b>Databases & Web/Application Servers:</b> <a>DynamoDB, MongoDB, MySQL, Amazon RDS, Nginx, WebLogic, Apache Tomcat</a></div>
+<div><b>Unix/Linux Systems:</b> <a>Ubuntu, Red Hat, CentOS, System</a></div>
+ Calls</b>
+ 
 -<b>Certifications: AWS - Solution Architect </b>
 
 <h2>Education</h2>
