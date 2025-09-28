@@ -1,5 +1,6 @@
 
-<h1>Hi, I'm Safeena <br/><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a> <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a></h1>
+<h1>Hi, I'm Safeena <br/></h1>
+ <h2><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a> <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a></h2>
 <h2>Skills</h2>
 <div><b>Methodologies & Practices:</b> <a>SDLC, Agile, Test-Driven Development (TDD)</a></div>
 <div><b>DevOps & DevSecOps:</b> <a>Configuration Management (Puppet, ArgoCD, Chef Cookbooks), Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</a></div>
