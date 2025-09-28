@@ -18,13 +18,12 @@
 <div><b>Certifications: </b><a><b>AWS - </b>Solution Architect </a> 
  
 <h2>Education</h2>
-
-<h3>University of Bridgeport</h3> Bridgeport, CT | Sep 2023 – Dec 2025</div>
-<div><b>Master of Technology in Computer Science and Engineering</b>
+<b>University of Bridgeport</b>
+<div><i>Master of Technology in Computer Science and Engineering - Bridgeport, CT | Sep 2023 – Dec 2025</i>
 <div><b>Relevant Coursework: </b><a>Object-Oriented Programming Language, AWS</a>
 
-<h3>Lingayas Institute of Management and Technology</h3> Hyderabad, IND | July 2016 – Nov 2020</div>
-<div><b>Bachelor of Technology in Electronics and Telecommunication Engineering</b></div>
+<b>Lingayas Institute of Management and Technology</b>
+<div><i>Bachelor of Technology in Electronics and Telecommunication Engineering  Hyderabad, IND | July 2016 – Nov 2020</i>
 <div><b>Relevant Coursework:</b> <a>Networking, Digital Communication</a></div>
 <div><b>Activities:</b> <a>Step Index and Graded Index Optical Fiber Project (Team Lead), IoT Workshop</a></div>
 
