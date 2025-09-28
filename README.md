@@ -1,6 +1,8 @@
 
 <h1>Hi, I'm Safeena Khanam <br/><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a> <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a></h1>
+
 <h2>Skills</h2>
+
 <div><b>Methodologies & Practices:</b> <a>SDLC, Agile, Test-Driven Development (TDD)</a></div>
 <div><b>DevOps & DevSecOps:</b> <a>Configuration Management (Puppet, ArgoCD, Chef Cookbooks), Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</a></div>
 <div><b>Management:</b> <a>HashiCorp Vault, PasswordSafe, Compliance Automation</a></div>
@@ -14,20 +16,52 @@
 <div><b>Unix/Linux Systems:</b> <a>Ubuntu, Red Hat, CentOS, System</a></div>
  Calls</b>
 <div><b>Certifications: </b><a><b>AWS - </b>Solution Architect </a> 
-
+ 
 <h2>Education</h2>
+
 <h3>University of Bridgeport</h3>
--<b>Master of Technology in Computer Science and Engineering</b>
-  -Relevant Coursework: Object-Oriented Programming Language, AWS, DevOps</b>
+<div><b>Master of Technology in Computer Science and Engineering</b>
+<div><b>Relevant Coursework: </b><a>Object-Oriented Programming Language, AWS</a>
 
 <h3>Lingayas Institute of Management and Technology</h3>
--<b>Bachelor ofTechnology in Electronics andTelecommunication and Engineering</b>
-  -Relevant Coursework: Networking, Digital Communication
-  -Activities: Step Index and Graded Index Optical Fiber Project (Team Lead), IoT Workshop
+<div><b>Bachelor of Technology in Electronics and Telecommunication Engineering</b></div>
+<div><b>Relevant Coursework:</b> <a>Networking, Digital Communication</a></div>
+<div><b>Activities:</b> <a>Step Index and Graded Index Optical Fiber Project (Team Lead), IoT Workshop</a></div>
 
 <h2>Work Experience</h2>
-<h3>NJ Transit</h3>
--<b></b>
+
+<h3>NJ TRANSIT</h3>
+<div><b>Cloud Intern</b> – Newark, NJ | <i>Jun 2025 – Aug 2025</i></div>
+<ul>
+  <li>Manage on-site and cloud-based systems and support the development and performance metric tracking of 800+ servers</li>
+  <li>Create procedure user manuals for internal cloud virtualization applications (BigFix, Active Directory, Rubrik, etc.)</li>
+  <li>Collaborate on automation and infosec opportunities to enhance optimization, resiliency, and redundancy of 4 data centers</li>
+</ul>
+
+<h3>University of Bridgeport</h3>
+<div><b>Teaching Assistant – Reinforcement Learning</b> – Bridgeport, CT | <i>Jan 2025 – May 2025</i></div>
+<ul>
+  <li>Provided 15 virtual and in-person office hours weekly to assist graduate students with programming tasks</li>
+  <li>Evaluated ~1700 assignments, quizzes, and exams independently and attended weekly lectures</li>
+  <li>Released syllabi and announcements in place of Professor Ausif Muhummod after lectures</li>
+</ul>
+
+<h3>ITOrizon Private LTD</h3>
+<div><b>DevOps Engineer</b> – Bangalore, IND | <i>Aug 2021 – Jun 2023</i></div>
+<ul>
+  <li>Led report meetings twice per day, criticality meetings twice per week, and client meetings weekly to ensure optimization</li>
+  <li>Handled incident tracking using BigPanda, Jira, and ServiceNow, managing an average of 20–30 tickets per day</li>
+  <li>Detected and mitigated node failovers, reducing downtime by up to 25% through proactive alerting and timely escalation</li>
+</ul>
+
+<h3>Cyient LTD</h3>
+<div><b>Network and Tele-Communication Engineer</b> – Hyderabad, IND | <i>Dec 2020 – Aug 2021</i></div>
+<ul>
+  <li>Designed FTTH/5G fiber backbones (10 Gbps) via Smallworld GIS, ensuring low latency and high availability</li>
+  <li>Used multi-frequency layouts and hedging to cut signal overlap by 30% and boost deployment efficiency by 25%</li>
+  <li>Ensured BNetzA/EU compliance, reducing design rework and accelerating approval cycles by up to 20%</li>
+</ul>
+
 
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
