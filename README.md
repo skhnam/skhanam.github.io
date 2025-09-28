@@ -1,10 +1,11 @@
 
-<h1>Hi, I'm Safeena <br/><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a>, <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a>, </h1>
+<h1>Hi, I'm Safeena <br/><a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">Grad student at University of Bridgeport</a> <a href="https://github.com/skhnam"> AWS | Cloud | Site Reliability Engineer</a></h1>
+<h2>Skills</h2>
+<h3>Methodologies & Practices</h3>
+<a>SDLC, Agile, Test-Driven Development (TDD)</a>
+<h3>DevOps & DevSecOps</h3>
+<a>Configuration Management (Puppet, ArgoCD, Chef Cookbooks),Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</a>
 
-<h2>Skills:</h2>
-
--<b>Methodologies & Practices: SDLC, Agile, Test-Driven Development (TDD)</b>
--<b>DevOps & DevSecOps: Configuration Management (Puppet, ArgoCD, Chef Cookbooks),Infrastructure as Code (Terraform, Ansible, Pulumi), Secrets</b>
 -<b>Management (HashiCorp Vault, PasswordSafe), Compliance Automation</b>
 -<b>Cloud Platforms & Services: AWS (EC2, S3, RDS, ECS, EKS, Lambda, Route53, SNS, SQS, CloudTrail), Azure (App Service, Azure AD, ARM</b>
 -<b>Templates, Azure Kubernetes Service)</b>
