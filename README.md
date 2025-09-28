@@ -13,7 +13,7 @@
 <div><b>Databases & Web/Application Servers:</b> <a>DynamoDB, MongoDB, MySQL, Amazon RDS, Nginx, WebLogic, Apache Tomcat</a></div>
 <div><b>Unix/Linux Systems:</b> <a>Ubuntu, Red Hat, CentOS, System</a></div>
  Calls</b>
-<div><b>Certifications:</b><a><b>AWS-</b>Solution Architect </a> 
+<div><b>Certifications: </b><a><b>AWS - </b>Solution Architect </a> 
 
 <h2>Education</h2>
 <h3>University of Bridgeport</h3>
