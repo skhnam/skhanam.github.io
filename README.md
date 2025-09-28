@@ -19,7 +19,7 @@
  
 <h2>Education</h2>
 
-<h3>University of Bridgeport</h3>
+<h3>University of Bridgeport</h3> – Newark, NJ | <i>Jun 2025 – Aug 2025</i></div>
 <div><b>Master of Technology in Computer Science and Engineering</b>
 <div><b>Relevant Coursework: </b><a>Object-Oriented Programming Language, AWS</a>
 
